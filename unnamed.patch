@@ -1,0 +1,17 @@
+Index: .idea/dataSources.xml
+===================================================================
+--- .idea/dataSources.xml	(revision Shelved version)
++++ .idea/dataSources.xml	(revision Shelved version)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
++    <data-source source="LOCAL" name="news_for_me@localhost" uuid="cb6d71ec-30dc-40f8-83ad-67678222a8b7">
++      <driver-ref>postgresql</driver-ref>
++      <synchronize>true</synchronize>
++      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
++      <jdbc-url>jdbc:postgresql://localhost:5432/news_for_me</jdbc-url>
++    </data-source>
++  </component>
++</project>
+\ No newline at end of file
