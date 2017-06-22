@@ -3,6 +3,7 @@ CREATE OR REPLACE FUNCTION public.tmp_scout_match_pop_up(_p_player_id bigint, _p
  LANGUAGE plpgsql
  SECURITY DEFINER
 AS $function$BEGIN
+-- 123
 	RETURN 
 	(WITH
 	player_match AS (
