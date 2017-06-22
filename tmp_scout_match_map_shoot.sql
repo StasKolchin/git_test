@@ -3,7 +3,7 @@ CREATE OR REPLACE FUNCTION public.tmp_scout_match_map_shoot(_p_match_arr bigint[
  LANGUAGE plpgsql
 AS $function$
         BEGIN
-        	-- git test 3
+        	-- git test 4
         	RETURN QUERY(
         		WITH
         			player_matches AS ( -- Выбираем все матчи, в которых участвовал игрок
