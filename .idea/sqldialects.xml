@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/cb6d71ec-30dc-40f8-83ad-67678222a8b7/console.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/tmp_scout_match_map_shoot.sql" dialect="PostgreSQL" />
   </component>
 </project>
